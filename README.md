@@ -29,9 +29,9 @@ Highlight top-performing and low-performing agents.
 
 📂 Project Structure
 Call-Center-Performance/
-│
-├── call_logs.csv             # Dataset (synthetic sample)
-└── call_center_analysis.py   # Python script for analysis
+    │
+    ├── call_logs.csv             # Dataset (synthetic sample)
+    └── call_center_analysis.py   # Python script for analysis
 
 ⚙️ Procedure
 
